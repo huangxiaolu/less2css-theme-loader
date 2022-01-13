@@ -3,6 +3,13 @@
   "version": "1.0.2",
   "main": "lib/index.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangxiaolu/less2css-theme-loader.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.com"
+  },
   "devDependencies": {
     "@webpack-cli/generators": "^2.1.0",
     "webpack": "^5.36.2",
